@@ -1,0 +1,18 @@
+
+/*movieCard css*/
+
+
+.movieCard {
+    display: flex;
+     margin :30px;
+     justify-self: center;
+}
+
+.stars {
+    margin:5px auto;
+    font-size: 25px;
+}
+
+.row{
+    justify-content: center ;
+}

@@ -1,0 +1,20 @@
+
+.searchBarContainer{
+display:flex;
+margin : 50px;
+justify-content: center;
+
+}
+
+.searchBar{
+    height: 40px;
+    width:400px ;
+}
+
+h3{
+    padding:  0px 20px;
+    margin-right : 30px;
+    color :#473531;
+ 
+}
+

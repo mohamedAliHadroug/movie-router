@@ -1,0 +1,19 @@
+
+
+/* styling the search rating*/
+
+.ratingContainer{
+    margin: 50px;
+    display:flex;
+    justify-content:center;
+    font-weight: bold;
+}
+
+h3{
+    color : #473531;
+margin-right: 20px;
+}
+
+.starSearch{
+    font-size: 30px;
+}
